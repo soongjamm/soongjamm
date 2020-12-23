@@ -1,4 +1,4 @@
-### Hi there 👋
+![soongjamm's github stats](https://github-readme-stats.vercel.app/api?username=soongjamm&show_icons=true&theme=radical)
 
 <!--
 **soongjamm/soongjamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
